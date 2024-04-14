@@ -1,4 +1,3 @@
 # Diabetic-Retinopathy-Severity-Grading
-- Processed retina images: create circular crop around image center, improve image illuminations, add color scale
-- Constructed and trained deep learning models, EfficientNet, InceptionV3, DensetNet, and ConvNet, to label DR severity levels of retina image with best precision and F1 score above 0.8
-- Explored retina blood vessel segmentation with U-net
+- Created circular crops around retina image centers, improved image illuminations, and added color scales for processing retina images
+- Constructed and trained deep learning models (EfficientNet, InceptionV3, DensetNet, ConvNet), which achieved best precision and F1 score above 0.8 in labeling DR severity levels of retina images
